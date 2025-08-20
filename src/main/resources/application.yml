@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: arquiteturaspring
+  jpa:
+    show_sql: true
+
+server:
+  port: 8081
